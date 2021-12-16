@@ -2,10 +2,10 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Gabriela and my nickname is "Gabe"!
 <h3> About me: </h3>
-- 🔭 I’m currently working as a trainee developer.
-- 🌱 I’m learning about front-end and relational database's.
-- 😄 Pronouns:she/her.
-- ⚡ Hobbies:reality shows, pet cats and music.
+- 🔭 I’m currently working as a trainee developer.<br>
+- 🌱 I’m learning about front-end and relational database's.<br>
+- 😄 Pronouns:she/her.<br>
+- ⚡ Hobbies:reality shows, pet cats and music.<br>
 
 <p> <h3>Knowledges:</h3></p>
 
