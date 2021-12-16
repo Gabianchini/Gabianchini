@@ -2,6 +2,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Gabriela and my nickname is "Gabe"!
 <h3> About me: </h3>
+-:house_with_garden: Brazilian <br>
 - 🔭 I’m currently working as a trainee developer.<br>
 - 🌱 I’m learning about front-end and relational database's.<br>
 - 😄 Pronouns:she/her.<br>
