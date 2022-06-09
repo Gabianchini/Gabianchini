@@ -3,9 +3,9 @@
 ### My name is Gabriela and my nickname is "Gabe"!
 <h3> About me: </h3>
 -:house_with_garden: Brazilian <br>
-- 🔭 I’m currently working as a trainee developer.<br>
+- 🔭 I’m currently working as a trainee frontend developer.<br>
 - 🌱 I’m learning about front-end and relational database's.<br>
-- 😄 Pronouns:she/her.<br>
+- 😄 Pronouns:she/her | they/them.<br>
 - ⚡ Hobbies:reality shows, pet cats and music.<br>
 
 <p> <h3>Knowledges:</h3></p>
